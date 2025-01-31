@@ -1,6 +1,6 @@
 // const apiURL = "https://mediminder457.pythonanywhere.com";
 // const apiURL = "http://127.0.0.1:5000";
-const apiURL = "https://mediminder-backend.vercel.app";
+// const apiURL = "https://mediminder-backend.vercel.app";
 
 document.getElementById("createUserForm").onsubmit = (e) => {
   createUser(e);
